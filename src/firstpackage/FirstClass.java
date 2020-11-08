@@ -7,6 +7,7 @@ public class FirstClass {
 		
 		System.out.println("first commit from the local master branch");
 		System.out.println("secon commit from local master");
+		System.out.println("third commit from local master");
 
 	}
 
